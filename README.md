@@ -39,8 +39,7 @@ Challenge: Since some RegEx rules use the output of other rules as their input, 
 
 This step involved using Machine Learning models ( Multinomial Naive Bayes, Logistic Regression, Decision Trees, and LSTM) for predicting the feature bundles associated with each inflected (pronounced) verb. 
 This step is significant in the documentation of languages on which little data/analysis is available for the gap between what words are made of and how they are pronounced. This means linguistic fieldworkers can use such models to understand the internal complexity of the words they record in the field. Giving a pronounced verb to these models, they can predict, with high predictive power, what syntactic features each verb is inflected for. 
- Here is a summary of the results:
- 
+
 ## Author
 
 Neda Taherkhani
