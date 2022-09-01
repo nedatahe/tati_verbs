@@ -49,8 +49,8 @@ This step, using ML, is significant in the documentation of languages on which l
 Neda Taherkhani
 Email: neda.tahe[At Sign]gmail.com
 
-Linkedin: https://www.linkedin.com/in/nedata/ 
+Linkedin: https://www.linkedin.com/in/nthrk/
 
 ## Acknowledgments
 
-Acknowledgments go to the Data Science (5) Bootcamp instructor at Nashville Software School, Michael Halloway, for his kind and unconditional help with this program. Michael knew how vital this program had been to me. He kindly met with me regularly to help me in this project. I also appreciate the role of t TAs of this Bootcamp: Veronica Ikeshoji-Orlati and Alvin Wendt.
+Acknowledgments go to the Data Science (5) Bootcamp instructor at Nashville Software School, Michael Halloway, for his kind and unconditional help with this program. I also appreciate the role of t TAs of this Bootcamp: Veronica Ikeshoji-Orlati and Alvin Wendt.
